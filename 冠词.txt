@@ -1,0 +1,44 @@
+原文——1：In this work we investigate the effect of the convolutional network depth on its
+accuracy in the large-scale image recognition setting. Our main contribution is
+a thorough evaluation of networks of increasing depth using an architecture with
+very small (3×3) convolution filters, which shows that a significant improvement
+on the prior-art configurations can be achieved by pushing the depth to 16–19
+weight layers. These findings were the basis of our ImageNet Challenge 2014
+submission, where our team secured the first and the second places in the localisation
+and classification tracks respectively. We also show that our representations
+generalise well to other datasets, where they achieve state-of-the-art results. We
+have made our two best-performing ConvNet models publicly available to facilitate
+further research on the use of deep visual representations in computer vision.
+
+1、In this work we investigate the（定冠词，特指被我们提升的影响） effect of the（定冠词，特指作者设计的网络） convolutional network depth on its accuracy in the（定冠词，特指作者的设定） large-scale image recognition setting.
+
+2、 Our main contribution is a（不定冠词，只是指明一个一般的提升） thorough evaluation of networks of increasing depth using an（不定冠词，只是指明一般的结构） architecture with very small (3×3) convolution filters, which shows 
+that a（不定冠词，只是泛指一个提升） significant improvement on the（定冠词，特指所得到的出色的设定） prior-art configurations can be achieved by pushing the（定冠词，特指作者网络的深度） depth to 16–19 weight layers.
+
+3、These findings were the（定冠词，特指作者网络的提升） basis of our ImageNet Challenge 2014 submission, where our team secured the（定冠词，序数词前面） first and the（定冠词，序数词前面） second places in the（定冠词，特指作者网络所参加比赛的类型） 
+localisation and classification tracks respectively.
+
+4、We also show that our representations generalise well to other datasets, where they achieve state-of-the-art（零冠词，复数没有冠词） results.
+
+5、We have made our two best-performing ConvNet models publicly available to facilitate further（零冠词，不可数名词） research on the（定冠词，特指作者的使用方法） use of deep visual representations in computer vision.
+
+
+
+原文——2：We describe a method for training object detectors using
+a generalization of the cascade architecture, which results
+in a detection rate and speed comparable to that of the best
+published detectors while allowing for easier training and a
+detector with fewer features. In addition, the method allows
+for quickly calibrating the detector for a target detection
+rate, false positive rate or speed. One important advantage
+of our method is that it enables systematic exploration of
+the ROC Surface, which characterizes the trade-off between
+accuracy and speed for a given classifier.
+
+1、We describe a（不定冠词，泛指试验方法） method for training object detectors using a（不定冠词，泛指一般的泛化） generalization of the（定冠词，特指本文的结构） cascade architecture, which results in a（不定冠词，泛指一般的探测） detection rate and speed 
+comparable to that of the（定冠词，特指最好的一个） best published detectors while allowing for easier training and a（不定冠词，泛指一般的探测器） detector with fewer features.
+
+2、In addition, the（定冠词，特指作者的方法） method allows for quickly calibrating the（定冠词，特指作者用的探测） detector for a（不定冠词，泛指探测比率） target detection rate, false positive rate or speed.
+
+3、One important advantage of our method is that it enables systematic exploration of the（定冠词，特指ROC的surface） ROC Surface, which characterizes the（定冠词，特指在accuracy和speed之间的平衡） trade-off 
+between accuracy and speed for a（不定冠词，泛指分类器） given classifier.
